@@ -5,6 +5,8 @@ This is a simple PHP-based command-line Bank Management System that allows users
 
 **Banker**: Manage customer accounts, view details, and check total bank balances.
 
+![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/tree/4c94495d93c63f5eabc8f4679d24ca678c329633/images)
+
 **Customer**: Perform transactions such as withdrawal, deposit, and balance inquiry.
 
 **Features**

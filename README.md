@@ -1,11 +1,17 @@
 # Core-PHP-Assessment
 **PHP Bank Management System**
+![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/blob/df9e1abbcc4ffe8a49cebcf0dc5c7259fcf6a83d/images/add%20customer.png)
+![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/blob/df9e1abbcc4ffe8a49cebcf0dc5c7259fcf6a83d/images/banker%20app.png)
+![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/blob/df9e1abbcc4ffe8a49cebcf0dc5c7259fcf6a83d/images/search%20customer.png)
+![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/blob/df9e1abbcc4ffe8a49cebcf0dc5c7259fcf6a83d/images/total%20amount.png) 
+![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/blob/df9e1abbcc4ffe8a49cebcf0dc5c7259fcf6a83d/images/view%20customer.png)
+![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/blob/df9e1abbcc4ffe8a49cebcf0dc5c7259fcf6a83d/images/your%20role.png)
+
+
 
 This is a simple PHP-based command-line Bank Management System that allows users to operate in two roles:
 
 **Banker**: Manage customer accounts, view details, and check total bank balances.
-
-![image alt](https://github.com/MdJawed32/Core-PHP-Assessment/tree/4c94495d93c63f5eabc8f4679d24ca678c329633/images)
 
 **Customer**: Perform transactions such as withdrawal, deposit, and balance inquiry.
 
